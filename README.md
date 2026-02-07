@@ -2,6 +2,7 @@
 A collection of academic papers, technical reports, and research writing projects focused on data science, statistics, and applied analytics.
 
 **Author:** Marshall Smith
+
 This repository contains a curated collection of academic papers, technical reports, and research-oriented writing projects completed during my undergraduate studies in Data Science and related disciplines.
 
 ## Focus Areas
