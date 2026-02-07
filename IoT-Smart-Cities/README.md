@@ -1,4 +1,4 @@
-# IoT Smart Cities Report
+# IoT Smart Cities Paper
 
 This folder contains a final academic report focused on Internet of Things (IoT) applications within smart city infrastructures. The project examined how sensor networks, data collection, and analytics can be leveraged to improve efficiency, sustainability, and decision-making in urban environments.
 
